@@ -2,7 +2,9 @@
 
 > Split Landing Page
 
-### [Demo]()
+### [Demo](http://split-landing-ab.surge.sh)
+
+![screenshot](https://github.com/Belchenkov/split_landing/blob/dev/uploads/screen.png)
 
 ### Get started
 
